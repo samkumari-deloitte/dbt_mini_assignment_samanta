@@ -1,0 +1,53 @@
+
+
+============================== 2022-05-31 21:40:57.942862 | 8ec2bc90-4ef3-4ecf-8a87-eb91161ba7f1 ==============================
+21:40:57.942862 [info ] [MainThread]: Running with dbt=1.1.0
+21:40:57.943787 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\samkumari\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'assignment', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+21:40:57.943787 [debug] [MainThread]: Tracking: tracking
+21:40:58.182662 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002148B82B2E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002148B82AF50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002148B82B310>]}
+21:40:58.192266 [debug] [MainThread]: Starter project path: C:\Users\samkumari\AppData\Local\Programs\Python\Python310\lib\site-packages\dbt\include\starter_project
+21:42:47.690563 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x000002148A4FD060>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021485DE79A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000021485A4B130>]}
+
+
+============================== 2022-05-31 21:43:03.058809 | 26c8f701-db3b-4be5-9fe8-e53f088e31b8 ==============================
+21:43:03.058809 [info ] [MainThread]: Running with dbt=1.1.0
+21:43:03.059823 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\samkumari\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'assignment', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+21:43:03.059823 [debug] [MainThread]: Tracking: tracking
+21:43:03.305866 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000029A5DD4B250>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000029A5DD4AEC0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000029A5DD4B2B0>]}
+21:43:03.307867 [info ] [MainThread]: A project called assignment already exists here.
+21:43:03.308867 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000029A5DD4B940>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000029A5DD4AE30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000029A5DD4BAF0>]}
+
+
+============================== 2022-05-31 21:43:18.531949 | 0f6a3383-ec49-478c-bc4b-74fa47656e45 ==============================
+21:43:18.531949 [info ] [MainThread]: Running with dbt=1.1.0
+21:43:18.532948 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\samkumari\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'assignmentdbt', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+21:43:18.533948 [debug] [MainThread]: Tracking: tracking
+21:43:18.775118 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000161FA30B2E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000161FA30AF50>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000161FA30B310>]}
+21:43:18.776106 [debug] [MainThread]: Starter project path: C:\Users\samkumari\AppData\Local\Programs\Python\Python310\lib\site-packages\dbt\include\starter_project
+21:44:22.247142 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000161F8FDD060>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000161F49279A0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000161F458B130>]}
+
+
+============================== 2022-05-31 21:45:17.932436 | 3688ac50-d944-4a7f-8194-bc5073b251fc ==============================
+21:45:17.932436 [info ] [MainThread]: Running with dbt=1.1.0
+21:45:17.933436 [debug] [MainThread]: running dbt with arguments {'write_json': True, 'use_colors': True, 'printer_width': 80, 'version_check': True, 'partial_parse': True, 'static_parser': True, 'profiles_dir': 'C:\\Users\\samkumari\\.dbt', 'send_anonymous_usage_stats': True, 'event_buffer_size': 100000, 'quiet': False, 'no_print': False, 'project_name': 'dbt_assignment', 'skip_profile_setup': False, 'which': 'init', 'indirect_selection': 'eager'}
+21:45:17.934437 [debug] [MainThread]: Tracking: tracking
+21:45:18.191507 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000183241672E0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018324166E30>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018324167160>]}
+21:45:18.192495 [debug] [MainThread]: Starter project path: C:\Users\samkumari\AppData\Local\Programs\Python\Python310\lib\site-packages\dbt\include\starter_project
+21:46:49.992285 [info ] [MainThread]: Profile dbt_assignment written to C:\Users\samkumari\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+21:46:49.993288 [info ] [MainThread]: 
+Your new dbt project "dbt_assignment" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+21:46:49.996287 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018324116FB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000018324167BB0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000183241672E0>]}
